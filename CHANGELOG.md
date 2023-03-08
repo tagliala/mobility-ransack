@@ -1,6 +1,6 @@
 # Mobility Ransack Changelog
 
-## 1.1
+## 1.2
 
 ### 1.2.2
 - Support Ransack 4.0
@@ -18,6 +18,8 @@
   [mhenrixon](https://github.com/mhenrixon)!
 - [Update mobility-ransack.gemspec](https://github.com/shioyama/mobility-ransack/pull/23),
   thanks [kevynlebouille](https://github.com/kevynlebouille)!
+
+## 1.1
 
 ### 1.1.0
 - Make MobilityRansack handle associations correctly
